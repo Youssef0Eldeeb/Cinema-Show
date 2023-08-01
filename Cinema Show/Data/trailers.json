@@ -1,0 +1,42 @@
+[
+  {
+    "id" : "jurassic-world-dominion",
+    "name" : "Jurassic World Dominion",
+    "headline" : "Many of the dinosaurs in captivity were let lose, prompting Goldblum's Dr Malcolm to proclaim a neo-Jurassic Age, where humans and dinosaurs must co-exist."
+  },
+  {
+    "id" : "men-in-black",
+    "name" : "Men in Black 3",
+    "headline" : "Even though agents J and K have been protecting the Earth from alien scum for many years, J still does not know much about his gruff partner."
+  },
+  {
+    "id" : "minions-the-rise-of-gru",
+    "name" : "Minions The Rise of Gru",
+    "headline" : "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them."
+  },
+  {
+    "id" : "moonfall",
+    "name" : "Moon Fall",
+    "headline" : "The moon goes out of orbit and starts coiling its way toward Earth, causing environmental disasters and setting the clock on humanity."
+  },
+  {
+    "id" : "morbius",
+    "name" : "Morbius",
+    "headline" : "Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism instead."
+  },
+  {
+    "id" : "sonic-the-hedgehog",
+    "name" : "Sonic The Hedgehog 2",
+    "headline" : "After settling in Green Hills, Sonic is ready for more freedom, and Tom and Maddie agree to leave him home while they go on vacation."
+  },
+  {
+    "id" : "top-gun-maverick",
+    "name" : "Top Gun Maverick",
+    "headline" : "As one of the Navy's top aviators, Pete is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him."
+  },
+  {
+    "id" : "uncharted",
+    "name" : "Uncharted",
+    "headline" : "Street-smart, is recruited by seasoned treasure hunter Sullivan, to recover a fortune amassed by Ferdinand Magellan."
+  }
+]

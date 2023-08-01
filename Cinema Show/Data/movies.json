@@ -1,0 +1,155 @@
+[
+  {
+    "id" : "jurassic-world-dominion",
+    "name" : "Jurasic World Dominion",
+    "headline" : "Many of the dinosaurs in captivity were let lose, prompting Goldblum's Dr Malcolm to proclaim a neo-Jurassic Age, where humans and dinosaurs must co-exist",
+    "description" : "After the dinosaurs escaped into the real world at the end of Fallen Kingdom, Trevorrow has revealed that Owen is still trying to help them when we reunite with him in the third movie.The parasaurs are in danger of being poached. There's a lot of shady types out there who want to get their hands on dinosaurs, so he's working to protect them, he explained. As for Claire though, Trevorrow is remaining tight-lipped about where we find her at the start of Dominion, but did add that she's questioning her methods, and whether she can stay safe.",
+    "link" : "https://www.jurassicworld.com/",
+    "image" : "jurassic-world-dominion",
+    "gallery" : [
+      "jurassic-world-dominion-1",
+      "jurassic-world-dominion-2",
+      "jurassic-world-dominion-3",
+      "jurassic-world-dominion-4"
+    ],
+    "actor" : [
+      "Sam Neill",
+      "Jeff Goldblum",
+      "Laura Dern"
+    ]
+  },
+  {
+    "id" : "men-in-black",
+    "name" : "Men In Black 3",
+    "headline" : "Even though agents J and K have been protecting the Earth from alien scum for many years, J still does not know much about his gruff partner.",
+    "description" : "Even though agents J (Will Smith) and K (Tommy Lee Jones) have been protecting the Earth from alien scum for many years, J still does not know much about his gruff partner. However, J soon gets an unexpected chance to find out what makes K tick when an alien criminal called Boris the Animal (Jemaine Clement) escapes, goes back to 1969, and kills K. With the fate of the planet at stake, J goes back in time and teams up with K's younger self (Josh Brolin) to put things right.",
+    "link" : "https://www.sonypictures.com/movies/meninblack3",
+    "image" : "men-in-black",
+    "gallery" : [
+      "men-in-black-1",
+      "men-in-black-2",
+      "men-in-black-3",
+      "men-in-black-4"
+    ],
+    "actor" : [
+      "Will Smith",
+      "Tommy Lee",
+      "Josh Brolin"
+    ]
+  },
+  {
+    "id" : "minions-the-rise-of-gru",
+    "name" : "Minions The Rise of Gru",
+    "headline" : "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them.",
+    "description" : "Evolving from single-celled yellow organisms at the dawn of time, Minions live to serve, but find themselves working for a continual series of unsuccessful masters, from T. Rex to Napoleon. Without a master to grovel for, the Minions fall into a deep depression. But one minion, Kevin, has a plan; accompanied by his pals Stuart and Bob, Kevin sets forth to find a new evil boss for his brethren to follow. Their search leads them to Scarlet Overkill, the world's first-ever super-villainess.",
+    "link" : "https://www.universalpictures.com/movies/minions-the-rise-of-gru",
+    "image" : "minions-the-rise-of-gru",
+    "gallery" : [
+      "minions-the-rise-of-gru-1",
+      "minions-the-rise-of-gru-2",
+      "minions-the-rise-of-gru-3",
+      "minions-the-rise-of-gru-4"
+    ],
+    "actor" : [
+      "Steve Carell",
+      "Taraji P. Henson",
+      "Jean-Claude Van Damme"
+    ]
+  },
+  {
+    "id" : "moonfall",
+    "name" : "Moon Fall",
+    "headline" : "The moon goes out of orbit and starts coiling its way toward Earth, causing environmental disasters and setting the clock on humanity.",
+    "description" : "The world stands on the brink of annihilation when a mysterious force knocks the moon from its orbit and sends it hurtling toward a collision course with Earth. With only weeks before impact, NASA executive Jocinda Jo Fowler teams up with a man from her past and a conspiracy theorist for an impossible mission into space to save humanity.",
+    "link" : "https://moonfall.movie",
+    "image" : "moonfall",
+    "gallery" : [
+      "moonfall-1",
+      "moonfall-2",
+      "moonfall-3",
+      "moonfall-4"
+    ],
+    "actor" : [
+      "John Bradley",
+      "Patrick Wils",
+      "Keylly Yu"
+    ]
+  },
+  {
+    "id" : "morbius",
+    "name" : "Morbius",
+    "headline" : "Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism instead.",
+    "description" : "A masked killer uses a small Tennessee town as a playground. When local police are more interested in a big football game, an out-of-town detective arrives to solve the case and save teens from being slaughtered.",
+    "link" : "https://www.morbius.movie",
+    "image" : "morbius",
+    "gallery" : [
+      "morbius-1",
+      "morbius-2",
+      "morbius-3",
+      "morbius-4"
+    ],
+    "actor" : [
+      "Jared Leto",
+      "Michael Keaton",
+      "Matt Smith"
+    ]
+  },
+  {
+    "id" : "sonic-the-hedgehog",
+    "name" : "Sonic The Hedgehog 2",
+    "headline" : "After settling in Green Hills, Sonic is ready for more freedom, and Tom and Maddie agree to leave him home while they go on vacation.",
+    "description" : "After settling in Green Hills, Sonic is eager to prove that he has what it takes to be a true hero. His test comes when Dr. Robotnik returns with a new partner, Knuckles, in search of a mystical emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.",
+    "link" : "https://www.sonicthehedgehogmovie.com/",
+    "image" : "sonic-the-hedgehog",
+    "gallery" : [
+      "sonic-the-hedgehog-1",
+      "sonic-the-hedgehog-2",
+      "sonic-the-hedgehog-3",
+      "sonic-the-hedgehog-4"
+    ],
+    "actor" : [
+      "Idris Elba",
+      "Jim Carrey",
+      "Ben Schwartz"
+    ]
+  },
+  {
+    "id" : "top-gun-maverick",
+    "name" : "Top Gun Maverick",
+    "headline" : "As one of the Navy's top aviators, Pete is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him.",
+    "description" : "Pete Maverick Mitchell keeps pushing the envelope after years of service as one of the Navy's top aviators. He must soon confront the past while training a new squad of graduates for a dangerous mission that demands the ultimate sacrifice.",
+    "link" : "https://www.topgunmovie.com/",
+    "image" : "top-gun-maverick",
+    "gallery" : [
+      "top-gun-maverick-1",
+      "top-gun-maverick-2",
+      "top-gun-maverick-3",
+      "top-gun-maverick-4"
+    ],
+    "actor" : [
+      "Tom Cruise",
+      "Val Kilmer",
+      "Keylly McGillis"
+    ]
+  },
+  {
+    "id" : "uncharted",
+    "name" : "Uncharted",
+    "headline" : "Street-smart, is recruited by seasoned treasure hunter Sullivan, to recover a fortune amassed by Ferdinand Magellan.",
+    "description" : "Nathan Drake and his wisecracking partner Victor Sully Sullivan embark on a dangerous quest to find the greatest treasure never found while also tracking clues that may lead to Nate's long-lost brother.",
+    "link" : "https://www.unchartedmovie.com",
+    "image" : "uncharted",
+    "gallery" : [
+      "uncharted-1",
+      "uncharted-2",
+      "uncharted-3",
+      "uncharted-4"
+    ],
+    "actor" : [
+      "Mark Wahlberg",
+      "Tom Holand",
+      "Antonio Banderas"
+    ]
+  }
+  
+]

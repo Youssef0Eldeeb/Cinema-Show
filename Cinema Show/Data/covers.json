@@ -1,0 +1,35 @@
+[
+  {
+    "id" : 1,
+    "name" : "cover-jurassic-world-dominion"
+  },
+  {
+    "id" : 2,
+    "name" : "cover-men-in-black"
+  },
+  {
+    "id" : 3,
+    "name" : "cover-minions-the-rise-of-gru"
+  },
+  {
+    "id" : 4,
+    "name" : "cover-moonfall"
+  },
+  {
+    "id" : 5,
+    "name" : "cover-morbius"
+  },
+  {
+    "id" : 6,
+    "name" : "cover-sonic-the-hedgehog"
+  },
+  {
+    "id" : 7,
+    "name" : "cover-top-gun-maverick"
+  }
+  ,
+  {
+    "id" : 8,
+    "name" : "cover-uncharted"
+  }
+]

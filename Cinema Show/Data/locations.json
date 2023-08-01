@@ -1,0 +1,30 @@
+[
+  {
+    "id" : "novo-cinema",
+    "name" : "Novo Cinemas",
+    "image" : "novo-cinema",
+    "latitude" : 24.4539,
+    "longitude" : 54.3773
+  },
+  {
+    "id" : "oscar-cinema",
+    "name" : "Oscar Cinemas",
+    "image" : "oscar-cinema",
+    "latitude" : 25.2048,
+    "longitude" : 55.2708
+  },
+  {
+    "id" : "star-cinema",
+    "name" : "Star Cinemas",
+    "image" : "star-cinema",
+    "latitude" : 25.8007,
+    "longitude" : 55.9762
+  },
+  {
+    "id" : "vox-cinema",
+    "name" : "VOX Cinemas",
+    "image" : "vox-cinema",
+    "latitude" : 24.1302,
+    "longitude" : 55.8023
+  }
+]
